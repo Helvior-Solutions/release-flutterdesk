@@ -21,10 +21,10 @@ Download the latest version of FlutterDesk.
 
 | Platform | Availability | Download |
 |----------|--------------|----------|
-| macOS | Available | [Download .dmg](https://github.com/Helvior-Solutions/elease-flutterdesk/releases/latest/download/FlutterDesk-macOS.dmg) |
+| macOS | Available | [Download .dmg](https://github.com/Helvior-Solutions/release-flutterdesk/releases/download/v1.0.1/FlutterDesk-macOS.dmg) |
 | Windows | Coming Soon | — |
 
-[View All Releases](https://github.com/Helvior-Solutions/elease-flutterdesk/releases)
+[View All Releases](https://github.com/Helvior-Solutions/release-flutterdesk/releases)
 
 ## Installation
 
@@ -43,7 +43,7 @@ FlutterDesk for Windows is planned for a future release.
 
 ## Version History
 
-All application versions, updates, and release notes are available on the [Releases](https://github.com/Helvior-Solutions/elease-flutterdesk/releases) page.
+All application versions, updates, and release notes are available on the [Releases](https://github.com/Helvior-Solutions/release-flutterdesk/releases) page.
 
 ## About This Repository
 
